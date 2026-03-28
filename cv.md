@@ -29,6 +29,17 @@ University |     Location     |                    Speciality                   
 Programming Instructor  |    ITLandia   | 03.2019-06.2021
    Software Engineer    |    BelPost    | 08.2024-02.2026 
 
+## Completed Project
+
+[student handbook]("https://www.bgut.by/sites/default/files/spr/index.html")
+
+## Code examples
+
+```
+function numberToString(num) {
+  return num.toString();
+}
+```
 
 
 
