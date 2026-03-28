@@ -1,5 +1,5 @@
 # Derevianko  Anastasia
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/76a35093-f039-403e-b605-b3507c3fc783" />
+<p></p>> <img width="713" height="713" alt="image" src="https://github.com/user-attachments/assets/76a35093-f039-403e-b605-b3507c3fc783" />
 ## MY CONTACTS:
 * __Mail:__ ad-courtamour@gmail.com
 * __GitHub Account:__ ad-courtamour
