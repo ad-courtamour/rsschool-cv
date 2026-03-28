@@ -31,7 +31,7 @@ Programming Instructor  |    ITLandia   | 03.2019-06.2021
 
 ## Completed Project
 
-[student handbook](Адрес "https://www.bgut.by/sites/default/files/spr/index.html")
+[Student handbook][https://www.bgut.by/sites/default/files/spr/index.html]
 
 ## Code examples
 
