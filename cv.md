@@ -18,7 +18,7 @@ Logical thinking, English A2-B1, Strong understanding of OOP, Algorithms, and Da
 
 ## Education 
 
-MSUFT | Mogilev, Belarus | Information systems and technologies (Software engineer) | 2020 
+| MSUFT | Mogilev, Belarus | Information systems and technologies (Software engineer) | 2020 |
 
 ## Work Experience 
 
