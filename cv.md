@@ -26,7 +26,7 @@ University |     Location     |                    Speciality                   
 ## Work Experience 
 
 
-       Job title        | Place of work |   Work period
+   Job title            | Place of work |   Work period
 ------------------------|---------------|----------------- 
 Programming Instructor  |    ITLandia   | 03.2019-06.2021
 ------------------------|---------------|----------------- 
