@@ -29,7 +29,6 @@ University |     Location     |                    Speciality                   
    Job title            | Place of work |   Work period
 ------------------------|---------------|----------------- 
 Programming Instructor  |    ITLandia   | 03.2019-06.2021
-------------------------|---------------|----------------- 
    Software Engineer    |    BelPost    | 08.2024-02.2026 
 
 
