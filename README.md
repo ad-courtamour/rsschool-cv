@@ -1,1 +1,1 @@
-# https://ad-courtamour.github.io/rsschool-cv/cv
+# https://ad-courtamour.github.io/rsschool-cv/
