@@ -14,10 +14,10 @@ Continuous professional development and team-oriented results
 Logical thinking, English A2-B1, Strong understanding of OOP, Algorithms, and Data Structures
 
 ## Education 
-MSUFT | Mogilev, Belarus | Information systems and technologies (Software engineer) | 2020 
+| MSUFT | Mogilev, Belarus | Information systems and technologies (Software engineer) | 2020 |
 
 ## Work Experience 
-<p></p> Programming Instructor | ITLandia | 03.2019-06.2021 
-<p></p> Software Engineer | BelPost | 08.2024-02.2026
+<p></p> | Programming Instructor | ITLandia | 03.2019-06.2021 |
+<p></p> | Software Engineer | BelPost | 08.2024-02.2026 |
 
 
