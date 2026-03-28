@@ -1,6 +1,6 @@
-# Derevianko  Anastasia |
+# Derevianko  Anastasia | __MY CONTACTS:__ 
 ------------------------|--------------------
-  <img src="https://github.com/user-attachments/assets/524ef04e-99ee-4f74-bac5-dbde2bd29da2" width="200" alt="Превью"> | __MY CONTACTS:__ 
+  <img src="https://github.com/user-attachments/assets/524ef04e-99ee-4f74-bac5-dbde2bd29da2" width="200" alt="Превью"> | 
  + __Mail:__ ad-courtamour@gmail.com 
  + __GitHub Account:__ ad-courtamour
  + __Discourd:__ courtamour
