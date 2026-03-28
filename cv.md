@@ -3,7 +3,8 @@
  | <img src="https://github.com/user-attachments/assets/524ef04e-99ee-4f74-bac5-dbde2bd29da2" width="200" alt="Превью"> | __MY CONTACTS:__ 
  + __Mail:__ ad-courtamour@gmail.com 
  + __GitHub Account:__ ad-courtamour
- + __Discourd:__ courtamour  |
+ + __Discourd:__ courtamour
+|
 
  
 ## About me
@@ -22,9 +23,9 @@ Logical thinking, English A2-B1, Strong understanding of OOP, Algorithms, and Da
 
 ## Work Experience 
 
-<p></p> | Programming Instructor | ITLandia | 03.2019-06.2021 |
+| Programming Instructor | ITLandia | 03.2019-06.2021 |
 
-<p></p>  | Software Engineer | BelPost | 08.2024-02.2026 |
+| Software Engineer | BelPost | 08.2024-02.2026 |
 
 
 
