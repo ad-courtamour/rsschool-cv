@@ -23,9 +23,10 @@ Logical thinking, English A2-B1, Strong understanding of OOP, Algorithms, and Da
 
 ## Work Experience 
 
-| Programming Instructor | ITLandia | 03.2019-06.2021 |
-
-| Software Engineer | BelPost | 08.2024-02.2026 |
+       Job title        | Place of work |   Work period
+------------------------|:-------------:|:---------------: 
+Programming Instructor  |    ITLandia   | 03.2019-06.2021
+   Software Engineer    |    BelPost    | 08.2024-02.2026 
 
 
 
