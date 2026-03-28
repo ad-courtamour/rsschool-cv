@@ -1,5 +1,5 @@
 # Derevianko  Anastasia
-
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/76a35093-f039-403e-b605-b3507c3fc783" />
 ## MY CONTACTS:
 * __Mail:__ ad-courtamour@gmail.com
 * __GitHub Account:__ ad-courtamour
@@ -21,3 +21,5 @@ MSUFT | Mogilev, Belarus | Information systems and technologies (Software engine
 ## Work Experience 
 <p></p> Programming Instructor | ITLandia | 03.2019-06.2021 
 <p></p> Software Engineer | BelPost | 08.2024-02.2026
+
+
